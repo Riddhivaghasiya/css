@@ -1,0 +1,29 @@
+body{
+  background-color:#FFF0F5;
+}
+tr:nth-child(odd){
+ background-color:#ddd;
+}
+button{
+  position: relative;
+  left:40%;
+  margin-bottom: 20px;
+}
+table{
+ background-color:#DEB887;
+ border: 1px solid black;
+}
+.heading {
+  text-decoration: underline;
+  text-decoration-color:#778899;
+  font-size: 25px;
+}
+h1 {
+  font-size: 20px;
+}
+.content {
+  
+  padding: 20px 15px 20px 15px;
+  margin: auto;
+  overflow: auto;
+}

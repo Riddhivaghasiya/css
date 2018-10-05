@@ -1,0 +1,87 @@
+body{
+  /* background-color:#FFF0F5; */
+  background-size: 100%;
+  background-image: url(file:///home/riddhi-ubuntu/Downloads/hands-3456365__340.jpg)
+}
+/* #butn{
+color: red;
+background-color: black;
+} */
+#Mysidenav button {
+  position:absolute;
+  left: -130px;
+  transition: 0.9s;
+  padding: 15px;
+  width: 150px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  border-radius: 0 5px 5px 0;
+}
+#Mysidenav button:hover {
+  left: 0;
+}
+input{
+  width: 90%;
+}
+#green {
+  top: 60px;
+  background-color: #4CAF50;
+}
+#blue{
+  top: 140px;
+  background-color: #2196F3;
+}
+#red{
+  top: 220px;
+  background-color: #f44336;
+}
+#add_row{
+  top: 300px;
+  background-color: #555555;
+}
+#delete_row{
+  top: 380px;
+  background-color: #555555;
+}
+.nav-bar{
+  background-color:#8FBC8F;
+}
+.addrow .remove{
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+  right:70%;
+  margin-bottom: 30px;
+  border-radius: 2px;
+
+}
+/* #remove{
+  background-color: #BC8F8F;
+} */
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+/* table{
+  width: inherit;
+ /* background-color:#DEB887; */
+/* }  */
+.col-lg-10 {
+  padding:80px 15px 10px 10px;
+  margin: auto;
+  /* overflow: auto; */
+}
